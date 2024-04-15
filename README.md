@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9Foretruff&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/9Foretruff" /> </p>
 
-<div> <a href="www.linkedin.com/in/rokitko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/rokitko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/9Foretruff" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
